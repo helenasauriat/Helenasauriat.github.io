@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 70rem;
+  margin-left: 10px;
+  margin-right: 1opx;
+}
+
+header {
+  background-color: orchid;
+  font-size: 18px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 50%;
+  margin-left: 200px;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 300px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+h1 {
+  font-style: bold;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+  font-family: times new roman;
+}
+
+p {
+  font-size: 20px;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
